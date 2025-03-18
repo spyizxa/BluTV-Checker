@@ -8,8 +8,6 @@
 - ✅ **Telegram Bildirim Desteği**: Başarılı girişleri Telegram botuna iletir.  
 - ✅ **Çoklu Thread Desteği**: İşlemi hızlandırmak için eşzamanlı çalışır.  
 - ✅ **Renkli Terminal Çıktısı**: Daha anlaşılır loglama sağlar.  
-- ✅ **Loglama Sistemi**: İşlemler `log.txt` dosyasına kaydedilir.  
-
 ---
 
 ## 📥 Kurulum  
